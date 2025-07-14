@@ -1,6 +1,19 @@
 # LVS
 
-This repository contains the code for the LVS project.
+This repository contains the code for the Learning via Surprisability method. 
+When using the code for non-biology and non-ideation, please cite: 
+1. Mokryn, Osnat, and Hagit Ben-Shoshan. "Domain-based Latent Personal Analysis and its use for impersonation detection in social media." User Modeling and User-Adapted Interaction 31.4 (2021): 785-828.
+2. Mokryn, Osnat, Teddy Lazebnik, and Hagit Ben Shoshan. "Interpretable Transformation and Analysis of Timelines through Learning via Surprisability." arXiv preprint arXiv:2503.04502 (2025).
+
+When using in Ideation-related projects, please cite: 
+1. Mokryn, Osnat, Teddy Lazebnik, and Hagit Ben Shoshan. "Interpretable Transformation and Analysis of Timelines through Learning via Surprisability." arXiv preprint arXiv:2503.04502 (2025).
+2. Shaer, Orit, et al. "AI-Augmented Brainwriting: Investigating the use of LLMs in group ideation." Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. 2024.
+
+When using in Biology-related projects, please cite: 
+1. Alon, Uri, Osnat Mokryn, and Uri Hershberg. "Using domain based latent personal analysis of B cell clone diversity patterns to identify novel Relationships between the B cell clone populations in different tissues." Frontiers in immunology 12 (2021): 642673.
+2. Mokryn, Osnat, Teddy Lazebnik, and Hagit Ben Shoshan. "Interpretable Transformation and Analysis of Timelines through Learning via Surprisability." arXiv preprint arXiv:2503.04502 (2025).
+
+
 
 ## Input data 
 * We accept 3 types of csv : 
